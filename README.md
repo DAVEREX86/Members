@@ -35,7 +35,7 @@ Candidates will have to forgo a public review process of their social media prof
 - [ ] Geographical Location
 - [ ] Headshot image
 - [ ] Bio (Description of yourself)
-- [ ] Proposed Role
+- [ ] Proposed Role and why should we choose you?
 - [ ] Social Media Accounts (optional)
   - [ ] Facebook
   - [ ] Steemit
